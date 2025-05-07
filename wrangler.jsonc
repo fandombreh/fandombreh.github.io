@@ -1,1 +1,7 @@
-
+{
+  "name": "fandombreh",
+  "compatibility_date": "2025-05-07",
+  "pages": {
+    "bucket": "./"
+  }
+}
